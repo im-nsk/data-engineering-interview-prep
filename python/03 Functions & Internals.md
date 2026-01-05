@@ -9,8 +9,6 @@
 7. How does the call stack differ between recursion and iteration?
 8. Can you inspect the call stack at runtime?
 
----
-
 ## Scope (Local / Global / Nonlocal)
 
 9. What are the different variable scopes in Python?
@@ -22,7 +20,6 @@
 15. How does Python decide whether a variable is local or nonlocal?
 16. When would you prefer `nonlocal` over returning values?
 
----
 
 ## Default Argument Evaluation
 
@@ -34,7 +31,6 @@
 22. How does default argument behavior impact long-running services?
 23. What happens if a default argument is modified inside a function?
 
----
 
 ## 🔹 `*args` and `**kwargs`
 
@@ -46,7 +42,6 @@
 29. What happens if unexpected keyword arguments are passed?
 30. How would you forward arguments from one function to another?
 
----
 
 ## Keyword-Only Arguments
 
@@ -56,8 +51,6 @@
 34. What kind of bugs do keyword-only arguments prevent?
 35. How do keyword-only arguments improve readability and safety?
 
----
-
 ## Function Annotations (Conceptual)
 
 36. What are function annotations?
@@ -66,7 +59,6 @@
 39. What tools benefit from function annotations?
 40. Why do product companies encourage type hints in Python?
 
----
 
 ## Lambda vs Named Functions
 
@@ -76,7 +68,6 @@
 44. Why are lambdas discouraged for complex logic?
 45. How do lambdas affect debugging and readability?
 
----
 
 ## Closures (HIGH SIGNAL)
 
